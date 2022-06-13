@@ -1,4 +1,4 @@
-# student_report_card
+# Student Report Card
 
-# HOW TO RUN
+# How to run
 Open the .cpp file in TurboC++
